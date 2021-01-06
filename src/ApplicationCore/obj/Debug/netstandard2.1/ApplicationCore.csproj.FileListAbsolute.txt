@@ -1,0 +1,12 @@
+D:\eShopOnWeb\src\ApplicationCore\bin\Debug\netstandard2.1\ApplicationCore.deps.json
+D:\eShopOnWeb\src\ApplicationCore\bin\Debug\netstandard2.1\ApplicationCore.dll
+D:\eShopOnWeb\src\ApplicationCore\bin\Debug\netstandard2.1\ApplicationCore.pdb
+D:\eShopOnWeb\src\ApplicationCore\bin\Debug\netstandard2.1\BlazorShared.dll
+D:\eShopOnWeb\src\ApplicationCore\bin\Debug\netstandard2.1\BlazorShared.pdb
+D:\eShopOnWeb\src\ApplicationCore\obj\Debug\netstandard2.1\ApplicationCore.csprojAssemblyReference.cache
+D:\eShopOnWeb\src\ApplicationCore\obj\Debug\netstandard2.1\ApplicationCore.AssemblyInfoInputs.cache
+D:\eShopOnWeb\src\ApplicationCore\obj\Debug\netstandard2.1\ApplicationCore.AssemblyInfo.cs
+D:\eShopOnWeb\src\ApplicationCore\obj\Debug\netstandard2.1\ApplicationCore.csproj.CoreCompileInputs.cache
+D:\eShopOnWeb\src\ApplicationCore\obj\Debug\netstandard2.1\ApplicationCore.csproj.CopyComplete
+D:\eShopOnWeb\src\ApplicationCore\obj\Debug\netstandard2.1\ApplicationCore.dll
+D:\eShopOnWeb\src\ApplicationCore\obj\Debug\netstandard2.1\ApplicationCore.pdb

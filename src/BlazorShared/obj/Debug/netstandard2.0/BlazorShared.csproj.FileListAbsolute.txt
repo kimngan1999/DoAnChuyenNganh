@@ -1,0 +1,9 @@
+D:\eShopOnWeb\src\BlazorShared\bin\Debug\netstandard2.0\BlazorShared.deps.json
+D:\eShopOnWeb\src\BlazorShared\bin\Debug\netstandard2.0\BlazorShared.dll
+D:\eShopOnWeb\src\BlazorShared\bin\Debug\netstandard2.0\BlazorShared.pdb
+D:\eShopOnWeb\src\BlazorShared\obj\Debug\netstandard2.0\BlazorShared.csprojAssemblyReference.cache
+D:\eShopOnWeb\src\BlazorShared\obj\Debug\netstandard2.0\BlazorShared.AssemblyInfoInputs.cache
+D:\eShopOnWeb\src\BlazorShared\obj\Debug\netstandard2.0\BlazorShared.AssemblyInfo.cs
+D:\eShopOnWeb\src\BlazorShared\obj\Debug\netstandard2.0\BlazorShared.csproj.CoreCompileInputs.cache
+D:\eShopOnWeb\src\BlazorShared\obj\Debug\netstandard2.0\BlazorShared.dll
+D:\eShopOnWeb\src\BlazorShared\obj\Debug\netstandard2.0\BlazorShared.pdb

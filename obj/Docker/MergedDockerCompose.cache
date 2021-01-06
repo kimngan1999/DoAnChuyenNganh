@@ -1,0 +1,30 @@
+services:
+  eshoppublicapi:
+    build:
+      context: D:\eShopOnWeb
+      dockerfile: src/PublicApi/Dockerfile
+    environment:
+      ASPNETCORE_ENVIRONMENT: Docker
+      ASPNETCORE_URLS: http://+:80
+    image: eshoppublicapi
+    ports:
+    - published: 5200
+      target: 80
+    volumes:
+    - C:\Users\Dell\.aspnet\https:/root/.aspnet/https:ro
+    - C:\Users\Dell\.microsoft\usersecrets:/root/.microsoft/usersecrets:ro
+  eshopwebmvc:
+    build:
+      context: D:\eShopOnWeb
+      dockerfile: src/Web/Dockerfile
+    environment:
+      ASPNETCORE_ENVIRONMENT: Docker
+      ASPNETCORE_URLS: http://+:80
+    image: eshopwebmvc
+    ports:
+    - published: 5106
+      target: 80
+    volumes:
+    - C:\Users\Dell\.aspnet\https:/root/.aspnet/https:ro
+    - C:\Users\Dell\.microsoft\usersecrets:/root/.microsoft/usersecrets:ro
+version: '3.4'
